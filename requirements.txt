@@ -1,0 +1,6 @@
+# Packages required for the script
+# These can be installed with pip -r requirements.txt
+
+requests
+
+# re, json and datetime are also required but should be included with the python install.
